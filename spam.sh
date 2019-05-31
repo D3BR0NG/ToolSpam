@@ -273,7 +273,7 @@ else
             echo Zero!Razerr | lolcat -a -d 20
             sleep 0.02
             echo MR.XZZTY | lolcat -a -d 20
-            slepp 0.7
+            sleep 0.7
             echo Mr.Baldur | lolcat -a -d 10
       close
 fi
