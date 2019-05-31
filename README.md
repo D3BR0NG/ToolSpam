@@ -6,4 +6,6 @@ $pkg install curl
 $pkg install ssh
 $pkg install figlet
 $pkg install git
-$git clone https://github.com/D3BR0NG/ToolSpam.git
+$git clone https://github.com/D3BR0NG/ToolSpam
+$cd ToolSpam 
+$sh spam.sh
