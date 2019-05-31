@@ -145,7 +145,7 @@ spam(){
                     CURL_RESPONSE=`curl -s -o /dev/null -w "%{http_code}" $target_do`
                     echo  Gunakan tools dengan bijak, Ngerjain temen boleh tapi jangan terlalu banyak | lolcat -a -d 10
                     echo
-                    echo Follow me on instagram:@mr_debrong | lolcat -a -d 10
+                    echo Follow me on instagram mr_debrong | lolcat -a -d 10
                     sleep 0.2
                     echo  Follow My github:https://github.com/D3BR0NG | lolcat -a -d 10
                     echo Love you all | lolcat -a -d 10
@@ -273,7 +273,7 @@ else
             echo Zero!Razerr | lolcat -a -d 20
             sleep 0.02
             echo MR.XZZTY | lolcat -a -d 20
-            slepp 0.03
+            slepp 0.7
             echo Mr.Baldur | lolcat -a -d 10
       close
 fi
