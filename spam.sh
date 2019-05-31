@@ -191,7 +191,7 @@ spam(){
                   echo -e $cek_target
                   echo " Gunakan tools dengan bijak, ngerjain temen boleh, asal jangan banyak-banyak"
                   echo
-                  echo Follow me on instagram:@mr_debrong | lolcat -a -d 10
+                  echo Follow me on instagram : mr_debrong | lolcat -a -d 10
                    sleep 0.2
                    echo  Follow My github:https://github.com/D3BR0NG | lolcat -a -d 10
                    sleep 0.08
@@ -210,7 +210,7 @@ spam(){
         sleep 1
             echo Tools Spam By Mr.D3BR0NG | lolcat -a -d 20
             sleep 0.07
-            echo Follow me on instagram @mr_debrong | lolcat -a -d 20
+            echo Follow me on instagram mr_debrong | lolcat -a -d 20
             sleep 0.07
             echo and My GITHUB=http://github.com/D3BR0NG | lolcat -a -d 20
             sleep 0.07
@@ -256,7 +256,7 @@ if [ $mulai = "y" ]; then
 else
 	 echo Tools Spam By Mr.D3BR0NG | lolcat -a -d 20
             sleep 0.07
-            echo Follow me on instagram @mr_debrong | lolcat -a -d 20
+            echo Follow me on instagram mr_debrong | lolcat -a -d 20
             sleep 0.07
             echo and My GITHUB=http://github.com/D3BR0NG | lolcat -a -d 20
             sleep 0.07
@@ -273,6 +273,7 @@ else
             echo Zero!Razerr | lolcat -a -d 20
             sleep 0.02
             echo MR.XZZTY | lolcat -a -d 20
+            slepp 0.03
             echo Mr.Baldur | lolcat -a -d 10
       close
 fi
