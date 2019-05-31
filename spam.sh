@@ -83,7 +83,7 @@ mulai (){
             sleep 1
             echo Tools Spam by Mr.D3BR0NG | lolcat -a -d 10
             sleep 0.03
-            echo Follow me on instagram;@mr_debrong | lolcat -a -d 10
+            echo Follow me on instagram mr_debrong | lolcat -a -d 10
             sleep 0.03
             echo and My GITHUB=http://github.com/D3BR0NG | lolcat -a -d 10
             sleep 0.03
